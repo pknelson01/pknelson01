@@ -1,4 +1,11 @@
-<h1 align="center">📊 GitHub Stats:</h1>
+<h3 align="center">
+  Hello There! <br>
+  Welcome to my profile!
+  <img src="" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false" />
