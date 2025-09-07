@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false" />
