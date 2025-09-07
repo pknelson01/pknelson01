@@ -40,9 +40,7 @@
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pknelson01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
