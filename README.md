@@ -22,15 +22,20 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725" />
 </p>
 
+<!--
+ALL TIME STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=20250911-1725" />
-</p> 
+</p>
+-->
 
+<!--
+2025 STATS
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&v=20250911-1820" alt="GitHub Stats" />
   <br/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknelson01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=20250911-1725" />
