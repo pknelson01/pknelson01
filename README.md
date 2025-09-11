@@ -8,10 +8,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20App%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&size=22&pause=1000&v=20250911-1725">
 </p>
 
-<h3 align="center">
-  ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parker-nelson-27a819241) 
-</h3>
+<h3 align="center">🌐 Socials:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/parker-nelson-27a819241">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
