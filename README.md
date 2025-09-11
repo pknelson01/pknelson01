@@ -12,10 +12,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/parker-nelson-27a819241">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="80" />
   </a>
 </p>
-
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
