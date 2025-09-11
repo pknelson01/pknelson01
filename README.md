@@ -18,6 +18,8 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
+[![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=pknelson01)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725" />
 </p>
