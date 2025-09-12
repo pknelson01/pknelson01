@@ -19,7 +19,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="[https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725](https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725)" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725](https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250911-1725)" />
 </p>
 
 <!--
