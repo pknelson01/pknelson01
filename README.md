@@ -20,14 +20,9 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pknelson01&theme=tokyonight&hide_border=false&v=20250917-1440" alt="GitHub Streak">
-</p>
-
-<!--
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=tokyonight&hide_border=false&v=20250916-1035" />
 </p>
--->
+
 <!-- ALL TIME STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=20250916-1035" />
