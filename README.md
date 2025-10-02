@@ -19,30 +19,30 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=default&hide_border=false&v=20250916-1035" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=blueberry&hide_border=false&v=20250916-1035" />
 </p>
 
 <!--
 ALL TIME STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=default&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=20250916-1035" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=20250916-1035" />
 </p>
 -->
 
 <!-- 2025 STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800&v=20250916-1035" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800&v=20250916-1035" alt="GitHub Stats" />
   <br/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknelson01&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=20250916-1035" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=20250916-1035" />
 </p>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&v=20250916-1035" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=20250916-1035" />
 </p>
 
 <h1 align="center">💻 Tech Stack:</h1>
@@ -61,5 +61,5 @@ ALL TIME STATS
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pknelson01&limit=5&theme=default&combine_all_yearly_contributions=true&v=20250916-1035" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=pknelson01&limit=5&theme=blueberry&combine_all_yearly_contributions=true&v=20250916-1035" />
 </p>
