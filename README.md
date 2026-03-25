@@ -19,8 +19,12 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=blueberry&hide_border=false&v=20250916-1035" />
+  <img src="https://streak-stats.demolab.com/?user=pknelson01&theme=blueberry&hide_border=false" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=blueberry&hide_border=false&v=20250916-1035" />
+</p> -->
 
 <!--
 ALL TIME STATS
