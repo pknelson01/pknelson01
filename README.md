@@ -16,11 +16,11 @@
   </a>
 </p>
 
-<!-- <h2 align="center">📊 GitHub Stats:</h2>
+<!-- <h2 align="center">📊 GitHub Stats:</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pknelson01&theme=blueberry&hide_border=false" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pknelson01&theme=blueberry&hide_border=false&v=20250916-1035" />
@@ -34,12 +34,12 @@ ALL TIME STATS
 -->
 
 <!-- 2025 STATS -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800&v=20250916-1035" alt="GitHub Stats" />
   <br/>
-</p>
+</p> -->
 
-<p align="center">
+<-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=20250916-1035" />
 </p> -->
 
