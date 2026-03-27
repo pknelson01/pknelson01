@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<!-- <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pknelson01&theme=blueberry&hide_border=false" />
@@ -41,7 +41,7 @@ ALL TIME STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknelson01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=20250916-1035" />
-</p>
+</p> -->
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
